@@ -21,12 +21,12 @@ A documentação completa está organizada nas seguintes ferramentas e arquivos:
 
 ### 📚 Documentação Teórica e Estratégica
 *   **Documento Completo (Parte Teórica):** [`docs/1-documento-teorico.md`](docs/1-documento-teorico.md) - Visão, MVP, Roadmap, Ciclo de Vida e Riscos detalhados.
-*   **Canvas de Visão do Produto:** [Link para o quadro no Miro](link_publico_do_miro)
-*   **Prints dos Artefatos:** [`docs/prints/`](link_para_a_pasta) - Capturas de tela do Canvas e Roadmap.
+*   **Canvas de Visão do Produto:** [Link para o quadro no Miro](https://miro.com/app/board/uXjVH3VDTRw=/?share_link_id=859492094251)
+*   **Prints dos Artefatos:** [`docs/prints/`](docs/prints/) - Capturas de tela do Canvas e Roadmap.
 
 ### 🗺️ Artefatos Práticos (Parte Visual e Documental)
 *   **Documento do MVP:** [`docs/2-documento-mvp.md`](docs/2-documento-mvp.md) - Funcionalidades, priorização e critérios de aceitação.
-*   **Roadmap Visual Interativo:** [Link para a página pública do Notion](link_publico_do_notion)
+*   **Roadmap Visual Interativo:** [Link para a página pública do Notion](https://app.notion.com/p/Planejamento-e-implementa-o-3ac5aea62357801abf27e7c792ac107e)
 *   **Matriz de Riscos:** [`docs/3-matriz-de-riscos.md`](docs/3-matriz-de-riscos.md) - Identificação, classificação e planos de mitigação.
 
 ---
