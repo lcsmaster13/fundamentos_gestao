@@ -20,14 +20,14 @@ Este projeto foi desenvolvido como parte do desafio "Do Problema ao Produto", ap
 A documentação completa está organizada nas seguintes ferramentas e arquivos:
 
 ### 📚 Documentação Teórica e Estratégica
-*   **Documento Completo (Parte Teórica):** [`docs/1-documento-teorico.md`](link_para_o_arquivo) - Visão, MVP, Roadmap, Ciclo de Vida e Riscos detalhados.
+*   **Documento Completo (Parte Teórica):** [`docs/1-documento-teorico.md`](docs/1-documento-teorico.md) - Visão, MVP, Roadmap, Ciclo de Vida e Riscos detalhados.
 *   **Canvas de Visão do Produto:** [Link para o quadro no Miro](link_publico_do_miro)
 *   **Prints dos Artefatos:** [`docs/prints/`](link_para_a_pasta) - Capturas de tela do Canvas e Roadmap.
 
 ### 🗺️ Artefatos Práticos (Parte Visual e Documental)
-*   **Documento do MVP:** [`docs/2-documento-mvp.md`](link_para_o_arquivo) - Funcionalidades, priorização e critérios de aceitação.
+*   **Documento do MVP:** [`docs/2-documento-mvp.md`](docs/2-documento-mvp.md) - Funcionalidades, priorização e critérios de aceitação.
 *   **Roadmap Visual Interativo:** [Link para a página pública do Notion](link_publico_do_notion)
-*   **Matriz de Riscos:** [`docs/3-matriz-de-riscos.md`](link_para_o_arquivo) - Identificação, classificação e planos de mitigação.
+*   **Matriz de Riscos:** [`docs/3-matriz-de-riscos.md`](docs/3-matriz-de-riscos.md) - Identificação, classificação e planos de mitigação.
 
 ---
 
